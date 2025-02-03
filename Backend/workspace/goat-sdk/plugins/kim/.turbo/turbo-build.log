@@ -1,0 +1,107 @@
+
+
+> @goat-sdk/plugin-kim@0.1.7 build /Users/supornosarkar/Hackathons/mode-ai-agent-hackathon/goat/typescript/packages/plugins/kim
+> tsup
+
+[34mCLI[39m Building entry: src/index.ts, src/kim.plugin.ts, src/kim.service.ts, src/parameters.ts, src/abi/erc20.ts, src/abi/factory.ts, src/abi/pool.ts, src/abi/positionManager.ts, src/abi/swaprouter.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.3.5
+[34mCLI[39m Using tsup config: /Users/supornosarkar/Hackathons/mode-ai-agent-hackathon/goat/typescript/packages/plugins/kim/tsup.config.ts
+[34mCLI[39m Target: es2022
+[34mCLI[39m Cleaning output folder
+[34mESM[39m Build start
+[34mCJS[39m Build start
+DTS Build start
+[32mESM[39m [1mdist/kim.plugin.mjs              [22m[32m377.00 B[39m
+[32mESM[39m [1mdist/index.mjs                   [22m[32m372.00 B[39m
+[32mESM[39m [1mdist/kim.service.mjs             [22m[32m335.00 B[39m
+[32mESM[39m [1mdist/chunk-JPX5GPOH.mjs          [22m[32m18.74 KB[39m
+[32mESM[39m [1mdist/abi/swaprouter.mjs          [22m[32m160.00 B[39m
+[32mESM[39m [1mdist/chunk-BWWP6FVD.mjs          [22m[32m12.30 KB[39m
+[32mESM[39m [1mdist/chunk-ZBTW25KT.mjs          [22m[32m7.19 KB[39m
+[32mESM[39m [1mdist/parameters.mjs              [22m[32m766.00 B[39m
+[32mESM[39m [1mdist/abi/pool.mjs                [22m[32m140.00 B[39m
+[32mESM[39m [1mdist/chunk-VSGE4OOV.mjs          [22m[32m14.17 KB[39m
+[32mESM[39m [1mdist/chunk-KMI36SWQ.mjs          [22m[32m25.54 KB[39m
+[32mESM[39m [1mdist/abi/factory.mjs             [22m[32m157.00 B[39m
+[32mESM[39m [1mdist/chunk-PAWJFY3S.mjs          [22m[32m194.00 B[39m
+[32mESM[39m [1mdist/chunk-OIHICXER.mjs          [22m[32m22.20 KB[39m
+[32mESM[39m [1mdist/chunk-IZSX3VIL.mjs          [22m[32m686.00 B[39m
+[32mESM[39m [1mdist/abi/positionManager.mjs     [22m[32m175.00 B[39m
+[32mESM[39m [1mdist/abi/erc20.mjs               [22m[32m143.00 B[39m
+[32mESM[39m [1mdist/chunk-UKLEVNRI.mjs          [22m[32m8.20 KB[39m
+[32mESM[39m [1mdist/kim.plugin.mjs.map          [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/kim.service.mjs.map         [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/abi/swaprouter.mjs.map      [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/abi/pool.mjs.map            [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-ZBTW25KT.mjs.map      [22m[32m12.00 KB[39m
+[32mESM[39m [1mdist/chunk-VSGE4OOV.mjs.map      [22m[32m27.20 KB[39m
+[32mESM[39m [1mdist/index.mjs.map               [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-PAWJFY3S.mjs.map      [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-KMI36SWQ.mjs.map      [22m[32m49.13 KB[39m
+[32mESM[39m [1mdist/abi/factory.mjs.map         [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-OIHICXER.mjs.map      [22m[32m43.08 KB[39m
+[32mESM[39m [1mdist/chunk-IZSX3VIL.mjs.map      [22m[32m1.08 KB[39m
+[32mESM[39m [1mdist/abi/positionManager.mjs.map [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/abi/erc20.mjs.map           [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-UKLEVNRI.mjs.map      [22m[32m16.12 KB[39m
+[32mESM[39m [1mdist/chunk-BWWP6FVD.mjs.map      [22m[32m23.52 KB[39m
+[32mESM[39m [1mdist/parameters.mjs.map          [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-JPX5GPOH.mjs.map      [22m[32m27.56 KB[39m
+[32mESM[39m ⚡️ Build success in 8615ms
+[32mCJS[39m [1mdist/index.js                   [22m[32m507.00 B[39m
+[32mCJS[39m [1mdist/chunk-KP6PNBXN.js          [22m[32m12.39 KB[39m
+[32mCJS[39m [1mdist/kim.service.js             [22m[32m445.00 B[39m
+[32mCJS[39m [1mdist/abi/erc20.js               [22m[32m247.00 B[39m
+[32mCJS[39m [1mdist/chunk-3SIMCS5X.js          [22m[32m8.28 KB[39m
+[32mCJS[39m [1mdist/chunk-IYGNORWL.js          [22m[32m19.86 KB[39m
+[32mCJS[39m [1mdist/abi/factory.js             [22m[32m261.00 B[39m
+[32mCJS[39m [1mdist/parameters.js              [22m[32m1.15 KB[39m
+[32mCJS[39m [1mdist/chunk-PULQHN7K.js          [22m[32m14.25 KB[39m
+[32mCJS[39m [1mdist/abi/pool.js                [22m[32m244.00 B[39m
+[32mCJS[39m [1mdist/chunk-SLZ4EAZV.js          [22m[32m8.63 KB[39m
+[32mCJS[39m [1mdist/chunk-ENP2D6S3.js          [22m[32m25.63 KB[39m
+[32mCJS[39m [1mdist/chunk-7QVYU63E.js          [22m[32m272.00 B[39m
+[32mCJS[39m [1mdist/abi/positionManager.js     [22m[32m279.00 B[39m
+[32mCJS[39m [1mdist/chunk-W6YHPBTF.js          [22m[32m22.28 KB[39m
+[32mCJS[39m [1mdist/kim.plugin.js              [22m[32m512.00 B[39m
+[32mCJS[39m [1mdist/chunk-63L35NRK.js          [22m[32m996.00 B[39m
+[32mCJS[39m [1mdist/abi/swaprouter.js          [22m[32m264.00 B[39m
+[32mCJS[39m [1mdist/index.js.map               [22m[32m432.00 B[39m
+[32mCJS[39m [1mdist/abi/erc20.js.map           [22m[32m339.00 B[39m
+[32mCJS[39m [1mdist/kim.service.js.map         [22m[32m421.00 B[39m
+[32mCJS[39m [1mdist/chunk-IYGNORWL.js.map      [22m[32m28.18 KB[39m
+[32mCJS[39m [1mdist/parameters.js.map          [22m[32m472.00 B[39m
+[32mCJS[39m [1mdist/chunk-3SIMCS5X.js.map      [22m[32m22.25 KB[39m
+[32mCJS[39m [1mdist/abi/factory.js.map         [22m[32m343.00 B[39m
+[32mCJS[39m [1mdist/abi/pool.js.map            [22m[32m337.00 B[39m
+[32mCJS[39m [1mdist/chunk-SLZ4EAZV.js.map      [22m[32m15.80 KB[39m
+[32mCJS[39m [1mdist/abi/positionManager.js.map [22m[32m359.00 B[39m
+[32mCJS[39m [1mdist/chunk-ENP2D6S3.js.map      [22m[32m66.51 KB[39m
+[32mCJS[39m [1mdist/chunk-KP6PNBXN.js.map      [22m[32m31.56 KB[39m
+[32mCJS[39m [1mdist/chunk-W6YHPBTF.js.map      [22m[32m59.01 KB[39m
+[32mCJS[39m [1mdist/chunk-PULQHN7K.js.map      [22m[32m37.33 KB[39m
+[32mCJS[39m [1mdist/chunk-7QVYU63E.js.map      [22m[32m476.00 B[39m
+[32mCJS[39m [1mdist/kim.plugin.js.map          [22m[32m442.00 B[39m
+[32mCJS[39m [1mdist/abi/swaprouter.js.map      [22m[32m349.00 B[39m
+[32mCJS[39m [1mdist/chunk-63L35NRK.js.map      [22m[32m1.67 KB[39m
+[32mCJS[39m ⚡️ Build success in 9310ms
+DTS ⚡️ Build success in 158801ms
+DTS dist/kim.service.d.mts         1.36 KB
+DTS dist/parameters.d.mts          8.56 KB
+DTS dist/abi/erc20.d.mts           10.50 KB
+DTS dist/abi/factory.d.mts         18.21 KB
+DTS dist/abi/pool.d.mts            28.54 KB
+DTS dist/abi/positionManager.d.mts 31.85 KB
+DTS dist/abi/swaprouter.d.mts      14.94 KB
+DTS dist/kim.plugin.d.mts          302.00 B
+DTS dist/index.d.mts               107.00 B
+DTS dist/kim.service.d.ts          1.35 KB
+DTS dist/parameters.d.ts           8.56 KB
+DTS dist/abi/erc20.d.ts            10.50 KB
+DTS dist/abi/factory.d.ts          18.21 KB
+DTS dist/abi/pool.d.ts             28.54 KB
+DTS dist/abi/positionManager.d.ts  31.85 KB
+DTS dist/abi/swaprouter.d.ts       14.94 KB
+DTS dist/kim.plugin.d.ts           302.00 B
+DTS dist/index.d.ts                106.00 B

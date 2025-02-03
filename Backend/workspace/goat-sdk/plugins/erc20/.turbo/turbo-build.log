@@ -1,0 +1,77 @@
+
+
+> @goat-sdk/plugin-erc20@0.2.7 build /Users/supornosarkar/Hackathons/mode-ai-agent-hackathon/goat/typescript/packages/plugins/erc20
+> tsup
+
+[34mCLI[39m Building entry: src/abi.ts, src/erc20.plugin.ts, src/erc20.service.ts, src/index.ts, src/parameters.ts, src/token.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.3.5
+[34mCLI[39m Using tsup config: /Users/supornosarkar/Hackathons/mode-ai-agent-hackathon/goat/typescript/packages/plugins/erc20/tsup.config.ts
+[34mCLI[39m Target: es2022
+[34mCLI[39m Cleaning output folder
+[34mESM[39m Build start
+[34mCJS[39m Build start
+[32mESM[39m [1mdist/abi.mjs                [22m[32m139.00 B[39m
+[32mESM[39m [1mdist/erc20.plugin.mjs       [22m[32m263.00 B[39m
+[32mESM[39m [1mdist/index.mjs              [22m[32m405.00 B[39m
+[32mESM[39m [1mdist/chunk-GKTPVZTG.mjs     [22m[32m649.00 B[39m
+[32mESM[39m [1mdist/chunk-4SNQU72V.mjs     [22m[32m10.05 KB[39m
+[32mESM[39m [1mdist/chunk-RTD72Z3A.mjs     [22m[32m613.00 B[39m
+[32mESM[39m [1mdist/chunk-JZUBYDSJ.mjs     [22m[32m3.68 KB[39m
+[32mESM[39m [1mdist/token.mjs              [22m[32m225.00 B[39m
+[32mESM[39m [1mdist/erc20.service.mjs      [22m[32m217.00 B[39m
+[32mESM[39m [1mdist/chunk-2GEU4Y6B.mjs     [22m[32m2.39 KB[39m
+[32mESM[39m [1mdist/parameters.mjs         [22m[32m696.00 B[39m
+[32mESM[39m [1mdist/chunk-PAWJFY3S.mjs     [22m[32m194.00 B[39m
+[32mESM[39m [1mdist/abi.mjs.map            [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-JZUBYDSJ.mjs.map [22m[32m5.36 KB[39m
+[32mESM[39m [1mdist/token.mjs.map          [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-PAWJFY3S.mjs.map [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-2GEU4Y6B.mjs.map [22m[32m4.45 KB[39m
+[32mESM[39m [1mdist/parameters.mjs.map     [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-GKTPVZTG.mjs.map [22m[32m1.12 KB[39m
+[32mESM[39m [1mdist/erc20.plugin.mjs.map   [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/index.mjs.map          [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-4SNQU72V.mjs.map [22m[32m10.98 KB[39m
+[32mESM[39m [1mdist/chunk-RTD72Z3A.mjs.map [22m[32m766.00 B[39m
+[32mESM[39m [1mdist/erc20.service.mjs.map  [22m[32m71.00 B[39m
+[32mESM[39m ⚡️ Build success in 6489ms
+DTS Build start
+[32mCJS[39m [1mdist/erc20.plugin.js       [22m[32m394.00 B[39m
+[32mCJS[39m [1mdist/chunk-ZUBXOZDO.js     [22m[32m709.00 B[39m
+[32mCJS[39m [1mdist/parameters.js         [22m[32m1016.00 B[39m
+[32mCJS[39m [1mdist/erc20.service.js      [22m[32m323.00 B[39m
+[32mCJS[39m [1mdist/index.js              [22m[32m673.00 B[39m
+[32mCJS[39m [1mdist/chunk-I67VHO67.js     [22m[32m4.72 KB[39m
+[32mCJS[39m [1mdist/chunk-DYBR2ECP.js     [22m[32m11.61 KB[39m
+[32mCJS[39m [1mdist/token.js              [22m[32m425.00 B[39m
+[32mCJS[39m [1mdist/chunk-6STND2NQ.js     [22m[32m2.57 KB[39m
+[32mCJS[39m [1mdist/abi.js                [22m[32m243.00 B[39m
+[32mCJS[39m [1mdist/chunk-2WONXXVB.js     [22m[32m951.00 B[39m
+[32mCJS[39m [1mdist/chunk-7QVYU63E.js     [22m[32m272.00 B[39m
+[32mCJS[39m [1mdist/erc20.plugin.js.map   [22m[32m398.00 B[39m
+[32mCJS[39m [1mdist/chunk-6STND2NQ.js.map [22m[32m5.83 KB[39m
+[32mCJS[39m [1mdist/erc20.service.js.map  [22m[32m377.00 B[39m
+[32mCJS[39m [1mdist/chunk-ZUBXOZDO.js.map [22m[32m1.09 KB[39m
+[32mCJS[39m [1mdist/index.js.map          [22m[32m452.00 B[39m
+[32mCJS[39m [1mdist/chunk-DYBR2ECP.js.map [22m[32m12.34 KB[39m
+[32mCJS[39m [1mdist/abi.js.map            [22m[32m331.00 B[39m
+[32mCJS[39m [1mdist/parameters.js.map     [22m[32m436.00 B[39m
+[32mCJS[39m [1mdist/chunk-I67VHO67.js.map [22m[32m7.28 KB[39m
+[32mCJS[39m [1mdist/token.js.map          [22m[32m375.00 B[39m
+[32mCJS[39m [1mdist/chunk-2WONXXVB.js.map [22m[32m1.70 KB[39m
+[32mCJS[39m [1mdist/chunk-7QVYU63E.js.map [22m[32m480.00 B[39m
+[32mCJS[39m ⚡️ Build success in 7347ms
+DTS ⚡️ Build success in 37767ms
+DTS dist/abi.d.mts           2.06 KB
+DTS dist/erc20.service.d.mts 1.67 KB
+DTS dist/parameters.d.mts    4.03 KB
+DTS dist/token.d.mts         599.00 B
+DTS dist/erc20.plugin.d.mts  572.00 B
+DTS dist/index.d.mts         238.00 B
+DTS dist/abi.d.ts            2.06 KB
+DTS dist/erc20.service.d.ts  1.66 KB
+DTS dist/parameters.d.ts     4.03 KB
+DTS dist/token.d.ts          599.00 B
+DTS dist/erc20.plugin.d.ts   571.00 B
+DTS dist/index.d.ts          236.00 B

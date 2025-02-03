@@ -1,0 +1,137 @@
+
+
+> @goat-sdk/plugin-ironclad@0.1.3 build /Users/supornosarkar/Hackathons/mode-ai-agent-hackathon/goat/typescript/packages/plugins/ironclad
+> tsup
+
+[34mCLI[39m Building entry: src/index.ts, src/ironclad.plugin.ts, src/ironclad.service.ts, src/parameters.ts, src/vaultAddresses.ts, src/abi/borrower.ts, src/abi/erc20.ts, src/abi/hinthelper.ts, src/abi/icVault.ts, src/abi/lendingPool.ts, src/abi/protocolDataProvider.ts, src/abi/troveManager.ts
+[34mCLI[39m Using tsconfig: tsconfig.json
+[34mCLI[39m tsup v8.3.5
+[34mCLI[39m Using tsup config: /Users/supornosarkar/Hackathons/mode-ai-agent-hackathon/goat/typescript/packages/plugins/ironclad/tsup.config.ts
+[34mCLI[39m Target: es2022
+[34mCLI[39m Cleaning output folder
+[34mESM[39m Build start
+[34mCJS[39m Build start
+DTS Build start
+[32mESM[39m [1mdist/abi/lendingPool.mjs              [22m[32m163.00 B[39m
+[32mESM[39m [1mdist/abi/troveManager.mjs             [22m[32m166.00 B[39m
+[32mESM[39m [1mdist/ironclad.plugin.mjs              [22m[32m495.00 B[39m
+[32mESM[39m [1mdist/index.mjs                        [22m[32m485.00 B[39m
+[32mESM[39m [1mdist/chunk-CDET2Q36.mjs               [22m[32m741.00 B[39m
+[32mESM[39m [1mdist/chunk-33GTAHXM.mjs               [22m[32m31.49 KB[39m
+[32mESM[39m [1mdist/ironclad.service.mjs             [22m[32m443.00 B[39m
+[32mESM[39m [1mdist/chunk-ZGKA4MS7.mjs               [22m[32m30.32 KB[39m
+[32mESM[39m [1mdist/chunk-KL2WJ3BU.mjs               [22m[32m21.04 KB[39m
+[32mESM[39m [1mdist/chunk-6M7EHZ2B.mjs               [22m[32m4.98 KB[39m
+[32mESM[39m [1mdist/chunk-OCH5IKJI.mjs               [22m[32m6.00 KB[39m
+[32mESM[39m [1mdist/parameters.mjs                   [22m[32m868.00 B[39m
+[32mESM[39m [1mdist/abi/borrower.mjs                 [22m[32m152.00 B[39m
+[32mESM[39m [1mdist/chunk-AGO3MC5H.mjs               [22m[32m1.03 KB[39m
+[32mESM[39m [1mdist/chunk-QERPTIK6.mjs               [22m[32m21.89 KB[39m
+[32mESM[39m [1mdist/abi/erc20.mjs                    [22m[32m143.00 B[39m
+[32mESM[39m [1mdist/chunk-UKLEVNRI.mjs               [22m[32m8.20 KB[39m
+[32mESM[39m [1mdist/vaultAddresses.mjs               [22m[32m162.00 B[39m
+[32mESM[39m [1mdist/chunk-HCBNBDBM.mjs               [22m[32m8.47 KB[39m
+[32mESM[39m [1mdist/abi/hinthelper.mjs               [22m[32m162.00 B[39m
+[32mESM[39m [1mdist/chunk-PAWJFY3S.mjs               [22m[32m194.00 B[39m
+[32mESM[39m [1mdist/abi/icVault.mjs                  [22m[32m151.00 B[39m
+[32mESM[39m [1mdist/chunk-BH2KMH64.mjs               [22m[32m45.49 KB[39m
+[32mESM[39m [1mdist/abi/protocolDataProvider.mjs     [22m[32m192.00 B[39m
+[32mESM[39m [1mdist/abi/lendingPool.mjs.map          [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/ironclad.plugin.mjs.map          [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/abi/troveManager.mjs.map         [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/index.mjs.map                    [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-CDET2Q36.mjs.map           [22m[32m1.14 KB[39m
+[32mESM[39m [1mdist/chunk-33GTAHXM.mjs.map           [22m[32m51.04 KB[39m
+[32mESM[39m [1mdist/chunk-KL2WJ3BU.mjs.map           [22m[32m40.04 KB[39m
+[32mESM[39m [1mdist/chunk-OCH5IKJI.mjs.map           [22m[32m11.17 KB[39m
+[32mESM[39m [1mdist/chunk-AGO3MC5H.mjs.map           [22m[32m1.73 KB[39m
+[32mESM[39m [1mdist/parameters.mjs.map               [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-6M7EHZ2B.mjs.map           [22m[32m8.55 KB[39m
+[32mESM[39m [1mdist/abi/borrower.mjs.map             [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/abi/hinthelper.mjs.map           [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-UKLEVNRI.mjs.map           [22m[32m16.12 KB[39m
+[32mESM[39m [1mdist/vaultAddresses.mjs.map           [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/abi/erc20.mjs.map                [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/ironclad.service.mjs.map         [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-HCBNBDBM.mjs.map           [22m[32m16.17 KB[39m
+[32mESM[39m [1mdist/chunk-ZGKA4MS7.mjs.map           [22m[32m58.61 KB[39m
+[32mESM[39m [1mdist/chunk-PAWJFY3S.mjs.map           [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-QERPTIK6.mjs.map           [22m[32m41.58 KB[39m
+[32mESM[39m [1mdist/abi/icVault.mjs.map              [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/abi/protocolDataProvider.mjs.map [22m[32m71.00 B[39m
+[32mESM[39m [1mdist/chunk-BH2KMH64.mjs.map           [22m[32m86.17 KB[39m
+[32mESM[39m ⚡️ Build success in 163ms
+[32mCJS[39m [1mdist/ironclad.plugin.js              [22m[32m633.00 B[39m
+[32mCJS[39m [1mdist/index.js                        [22m[32m623.00 B[39m
+[32mCJS[39m [1mdist/abi/lendingPool.js              [22m[32m267.00 B[39m
+[32mCJS[39m [1mdist/chunk-XQ2GGLRO.js               [22m[32m1.03 KB[39m
+[32mCJS[39m [1mdist/ironclad.service.js             [22m[32m556.00 B[39m
+[32mCJS[39m [1mdist/chunk-4IKGKTS6.js               [22m[32m21.13 KB[39m
+[32mCJS[39m [1mdist/chunk-LIQMQUTE.js               [22m[32m30.40 KB[39m
+[32mCJS[39m [1mdist/chunk-TNN6W45V.js               [22m[32m6.10 KB[39m
+[32mCJS[39m [1mdist/parameters.js                   [22m[32m1.25 KB[39m
+[32mCJS[39m [1mdist/chunk-KGXOVP7P.js               [22m[32m45.58 KB[39m
+[32mCJS[39m [1mdist/chunk-BSIAI4VX.js               [22m[32m33.30 KB[39m
+[32mCJS[39m [1mdist/chunk-AH5YWBEE.js               [22m[32m6.36 KB[39m
+[32mCJS[39m [1mdist/abi/erc20.js                    [22m[32m247.00 B[39m
+[32mCJS[39m [1mdist/vaultAddresses.js               [22m[32m266.00 B[39m
+[32mCJS[39m [1mdist/chunk-4JRANLET.js               [22m[32m21.97 KB[39m
+[32mCJS[39m [1mdist/chunk-3SIMCS5X.js               [22m[32m8.28 KB[39m
+[32mCJS[39m [1mdist/chunk-WNL6M2FU.js               [22m[32m1.15 KB[39m
+[32mCJS[39m [1mdist/chunk-7QVYU63E.js               [22m[32m272.00 B[39m
+[32mCJS[39m [1mdist/abi/hinthelper.js               [22m[32m266.00 B[39m
+[32mCJS[39m [1mdist/chunk-NRDO3H5Q.js               [22m[32m8.56 KB[39m
+[32mCJS[39m [1mdist/abi/troveManager.js             [22m[32m270.00 B[39m
+[32mCJS[39m [1mdist/abi/borrower.js                 [22m[32m256.00 B[39m
+[32mCJS[39m [1mdist/abi/icVault.js                  [22m[32m255.00 B[39m
+[32mCJS[39m [1mdist/abi/protocolDataProvider.js     [22m[32m296.00 B[39m
+[32mCJS[39m [1mdist/index.js.map                    [22m[32m481.00 B[39m
+[32mCJS[39m [1mdist/ironclad.plugin.js.map          [22m[32m501.00 B[39m
+[32mCJS[39m [1mdist/chunk-XQ2GGLRO.js.map           [22m[32m1.73 KB[39m
+[32mCJS[39m [1mdist/chunk-LIQMQUTE.js.map           [22m[32m80.16 KB[39m
+[32mCJS[39m [1mdist/chunk-TNN6W45V.js.map           [22m[32m15.09 KB[39m
+[32mCJS[39m [1mdist/parameters.js.map               [22m[32m482.00 B[39m
+[32mCJS[39m [1mdist/chunk-KGXOVP7P.js.map           [22m[32m116.95 KB[39m
+[32mCJS[39m [1mdist/abi/lendingPool.js.map          [22m[32m361.00 B[39m
+[32mCJS[39m [1mdist/abi/erc20.js.map                [22m[32m349.00 B[39m
+[32mCJS[39m [1mdist/ironclad.service.js.map         [22m[32m480.00 B[39m
+[32mCJS[39m [1mdist/chunk-3SIMCS5X.js.map           [22m[32m22.26 KB[39m
+[32mCJS[39m [1mdist/chunk-AH5YWBEE.js.map           [22m[32m11.23 KB[39m
+[32mCJS[39m [1mdist/chunk-WNL6M2FU.js.map           [22m[32m2.31 KB[39m
+[32mCJS[39m [1mdist/abi/hinthelper.js.map           [22m[32m359.00 B[39m
+[32mCJS[39m [1mdist/chunk-4JRANLET.js.map           [22m[32m56.52 KB[39m
+[32mCJS[39m [1mdist/abi/troveManager.js.map         [22m[32m363.00 B[39m
+[32mCJS[39m [1mdist/abi/borrower.js.map             [22m[32m355.00 B[39m
+[32mCJS[39m [1mdist/vaultAddresses.js.map           [22m[32m359.00 B[39m
+[32mCJS[39m [1mdist/chunk-4IKGKTS6.js.map           [22m[32m54.23 KB[39m
+[32mCJS[39m [1mdist/abi/icVault.js.map              [22m[32m353.00 B[39m
+[32mCJS[39m [1mdist/chunk-NRDO3H5Q.js.map           [22m[32m22.18 KB[39m
+[32mCJS[39m [1mdist/chunk-BSIAI4VX.js.map           [22m[32m51.18 KB[39m
+[32mCJS[39m [1mdist/abi/protocolDataProvider.js.map [22m[32m379.00 B[39m
+[32mCJS[39m [1mdist/chunk-7QVYU63E.js.map           [22m[32m486.00 B[39m
+[32mCJS[39m ⚡️ Build success in 166ms
+DTS ⚡️ Build success in 1722ms
+DTS dist/ironclad.service.d.mts         2.59 KB
+DTS dist/parameters.d.mts               5.77 KB
+DTS dist/vaultAddresses.d.mts           93.00 B
+DTS dist/abi/borrower.d.mts             27.64 KB
+DTS dist/abi/erc20.d.mts                10.50 KB
+DTS dist/abi/hinthelper.d.mts           10.76 KB
+DTS dist/abi/icVault.d.mts              38.88 KB
+DTS dist/abi/lendingPool.d.mts          26.23 KB
+DTS dist/abi/protocolDataProvider.d.mts 7.19 KB
+DTS dist/abi/troveManager.d.mts         57.34 KB
+DTS dist/ironclad.plugin.d.mts          327.00 B
+DTS dist/index.d.mts                    122.00 B
+DTS dist/ironclad.service.d.ts          2.59 KB
+DTS dist/parameters.d.ts                5.77 KB
+DTS dist/vaultAddresses.d.ts            93.00 B
+DTS dist/abi/borrower.d.ts              27.64 KB
+DTS dist/abi/erc20.d.ts                 10.50 KB
+DTS dist/abi/hinthelper.d.ts            10.76 KB
+DTS dist/abi/icVault.d.ts               38.88 KB
+DTS dist/abi/lendingPool.d.ts           26.23 KB
+DTS dist/abi/protocolDataProvider.d.ts  7.19 KB
+DTS dist/abi/troveManager.d.ts          57.34 KB
+DTS dist/ironclad.plugin.d.ts           327.00 B
+DTS dist/index.d.ts                     121.00 B
